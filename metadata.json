@@ -1,0 +1,9 @@
+
+{
+  "name": "GOKU TEAM ULTIMATE V11",
+  "description": "Next-Gen Wingo 1M Elite Predictor with Adaptive Ensemble Logic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
